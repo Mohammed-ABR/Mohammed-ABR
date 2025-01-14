@@ -1,16 +1,34 @@
 ## Hi there 👋
+I am a _Graphic Designer_ and a beginner in _Front-End Development_. I
+specialize in creating visually appealing designs and aim to combine my design
+expertise with web development to build interactive and user-friendly websites.
+This is my first project, and I am excited to learn and grow in the field.
 
-<!--
-**Mohammed-ABR/Mohammed-ABR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages
 
-Here are some ideas to get you started:
+English
+Dutch
+Arabic
+Turkish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Graphic Design
+
+Proficient in:
+  Adobe Photoshop
+  CorelDRAW
+
+   Front-End Development
+
+ Learning the basics of:
+  HTML, CSS, JavaScript
+  Improving skills in:
+  Responsive Design
+  Git & GitHub
+
+ Hobbies
+
+Photography 📷
+Travel ✈
+Sports 🏋‍♂
+
+
